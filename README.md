@@ -25,7 +25,7 @@ Atualmente, também curso Análise e Desenvolvimento de Sistemas, aprofundando m
 
 ---
 
-###Linguagens e Tecnologias
+Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -123,15 +123,6 @@ Atualmente, também curso Análise e Desenvolvimento de Sistemas, aprofundando m
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Machine Learning"
-    title="Machine Learning"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
 />
 <img 
     align="left" 
