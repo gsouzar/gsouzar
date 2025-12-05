@@ -25,7 +25,7 @@ Atualmente, também curso Análise e Desenvolvimento de Sistemas, aprofundando m
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -152,10 +152,3 @@ Atualmente, também curso Análise e Desenvolvimento de Sistemas, aprofundando m
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsouzar&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsouzar&layout=compact&theme=tokyonight">
-</p>
