@@ -2,7 +2,7 @@ Gustavo de Souza Rodrigues
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Souza Rodrigues, tenho 18 anos e sou natural de São Paulo. Conclui o ensino médio juntamente com o curso técnico em Desenvolvimento de Sistemas, uma formação que ampliou meu contato com tecnologias, lógica de programação e criação de soluções digitais.
+Me chamo Gustavo Souza Rodrigues, tenho 19 anos e sou natural de São Paulo. Conclui o ensino médio juntamente com o curso técnico em Desenvolvimento de Sistemas, uma formação que ampliou meu contato com tecnologias, lógica de programação e criação de soluções digitais.
 
 Atualmente, também curso Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos em desenvolvimento de software, bancos de dados, arquitetura de aplicações, lógica computacional e práticas modernas da área de TI. A tecnologia sempre esteve presente na minha vida e se tornou uma verdadeira paixão, especialmente pela forma como é capaz de transformar processos, facilitar rotinas e gerar impacto direto na vida das pessoas e empresas.
 
